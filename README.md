@@ -22,7 +22,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Admin/Analyst Login Page
 - Configure End Users osTicket URL
 - Configure Roles and Permissions
-- Set Up Departments and Teams
 - Enable Ticket Creation
 - Configure Agents and Users
 - Set Up Service Level Agreements (SLA)
